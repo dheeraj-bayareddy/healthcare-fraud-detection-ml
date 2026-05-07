@@ -4,11 +4,6 @@
 ## Project Overview
 This project focuses on detecting fraudulent health insurance claims using supervised machine learning techniques. The dataset used contains synthetic healthcare insurance claim records designed for fraud detection research and experimentation.
 
-## Student Information
-- **Name:** Dheeraj Kadadalamari Bayareddy
-- **Matriculation Number:** 54932317
-- **Class:** MSc Data Science 90
-
 ## Dataset Information
 - **Dataset Title:** Synthetic Health Insurance Claims Fraud Detection
 - **Domain:** Healthcare / Insurance Fraud Detection
